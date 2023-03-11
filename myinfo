@@ -1,1 +1,5 @@
-
+#inlcude <stdio.h>
+int main() {
+  printf("i am doing merge conflicts");
+  return 0;
+}
